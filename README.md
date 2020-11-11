@@ -21,7 +21,9 @@ Some of the students were caught with academic dishonesty from Thomas High Schoo
 ```
 
 ## Challenge Summary
-✓ How is the district summary affected?
+
+##### ✓ How is the district summary affected?
+
 The average math score decreased by 0.1 points while the average reading score stayed the same. The percentage of students passing math decreased by 1% as did the percentage of students passing reading. The overall passing percentage also decreased by 1%.
 
 ![1](https://user-images.githubusercontent.com/73450637/98776288-a12f7d80-23bc-11eb-9912-be0f5c443d0c.png)
