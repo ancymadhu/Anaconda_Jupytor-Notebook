@@ -36,8 +36,22 @@ The only change in data is with Thomas High School. The overall math and reading
 
 Thomas High School overall passing percentage with the ninth graders were ~65% [Refer the image below]
 ![2](https://user-images.githubusercontent.com/73450637/98777106-29fae900-23be-11eb-827d-801adffcbf6b.png)
-But without the ninth graders the overall passing percentage went up to ~91%.
 
+But without the ninth graders the overall passing percentage went up to ~91%.[Refer the image below]
+![3](https://user-images.githubusercontent.com/73450637/98777213-57479700-23be-11eb-8332-9c6d159b350a.png)
 
+##### ✓ How does removing the ninth grade scores affect the following?
+
+###### * Math and Reading Scores by Grade
+         Thomas High School's 9th grade class has no math or reading score data to count. Everything else was unaffected.
+
+###### * Scores by School Spending
+         The $630-644 bin saw a decrease in the passing percentages since Thomas High School was in that spending range. Though, interestingly the average math and reading        scores for that range remained the same.
+
+###### * Scores by School Size
+         The Medium (1000-2000) bin saw a decrease in the passing percentages since Thomas High School was in that school size. Though, interestingly the average math and reading scores for that range remained the same.
+
+###### * Scores by School Type
+         The Charter schools saw a decrease in the passing percentages since Thomas High School was in that school type. Though, interestingly the average math and reading scores for that range remained the same.
 
 
