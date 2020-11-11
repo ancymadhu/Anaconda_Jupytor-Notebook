@@ -1,7 +1,7 @@
 # School_District_Analysis
 
 ## Overview
-Maria is the chief data scientist for a city school district. She has requested an analysis of school spending and standardized test scores.
+Maria is the Chief Data Scientist for a city school district. She has requested an analysis of school spending and standardized test scores.
 
 ## Resources
   * Data Source: schools_complete.csv, students_complete.csv
@@ -19,3 +19,8 @@ Some of the students were caught with academic dishonesty from Thomas High Schoo
   6. Recalculate the school performance based on the size of the school.
   7. Recalculate the school performance based on the type of school.
 ```
+
+## Challenge Summary
+✓ How is the district summary affected?
+The average math score decreased by 0.1 points while the average reading score stayed the same. The percentage of students passing math decreased by 1% as did the percentage of students passing reading. The overall passing percentage also decreased by 1%.
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
